@@ -62,12 +62,12 @@ class _WebviewPageState extends State<WebviewPage> {
       <html>
         <head>
           <meta name="viewport" content="width=device-width, initial-scale=1.0">
-          <script src="https://cdn.docuseal.co/js/form.js"></script>
+          <script src="https://cdn.docuseal.com/js/form.js"></script>
         </head>
         <body>
           <docuseal-form
             id="docusealForm"
-            data-src="https://docuseal.co/d/LEVGR9rhZYf86M"
+            data-src="https://docuseal.com/d/LEVGR9rhZYf86M"
             data-email="signer@example.com">
           </docuseal-form>
         </body>
